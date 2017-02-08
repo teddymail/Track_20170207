@@ -174,6 +174,7 @@ public class MainActivity extends AppCompatActivity {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setCancelable(false);
         builder.setTitle("跟踪路线列表");
+        System.out.println("123");
 
     }
 
